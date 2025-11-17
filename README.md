@@ -1,5 +1,3 @@
-    with st.expander("ℹ️ How to use this app"):
-        st.markdown("""
         ### Instructions:
         
         1. **Select Mode**:
@@ -45,3 +43,4 @@
         - BG Color, BG RGB, Font Color, Font RGB
         - Number Format, Worksheet Name
         """)
+
