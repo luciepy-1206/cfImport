@@ -41,6 +41,4 @@
         Your CF Rules file must have a sheet named **"CF Rules"** with these columns:
         - Start Column, End Column, Formula, Stop if True
         - BG Color, BG RGB, Font Color, Font RGB
-        - Number Format, Worksheet Name
-        """)
-
+        - Number Format, Worksheet Name=
